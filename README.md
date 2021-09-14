@@ -1,8 +1,10 @@
 # Business-Website-Example
 Responsive, Bootstrap Mobile First Website
-Author URI: https://github.com/bradclemson97
+Author URL: https://github.com/bradclemson97
 
 The website for 'Affirm' is a modern HTML5 website designed for all the Business, Corporate, Industries, Agency, personal portfolio and Consultants out there that need a professional yet modern looking website. This website comes packed with features and enables them to interact easier. This is developed on HTML5, Bootstrap 3.2.0 and fully Responsive.
+
+Live example URL: https://bradclemson97.github.io/Business-Website-Example/
 
 
 Credits
